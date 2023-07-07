@@ -6,7 +6,7 @@
   <parent>
     <groupId>us.fatehi</groupId>
     <artifactId>schemacrawler-parent</artifactId>
-    <version>16.20.1</version>
+    <version>16.21.0</version>
     <relativePath>../schemacrawler-parent/pom.xml</relativePath>
   </parent>
   <artifactId>schemacrawler-testdb</artifactId>
@@ -29,7 +29,7 @@
       <artifactId>schemacrawler-utility</artifactId>
       <version>${project.version}</version>
     </dependency>
-          
+
     <dependency>
       <groupId>info.picocli</groupId>
       <artifactId>picocli</artifactId>

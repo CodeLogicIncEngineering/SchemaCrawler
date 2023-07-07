@@ -6,7 +6,7 @@
   <parent>
     <groupId>us.fatehi</groupId>
     <artifactId>schemacrawler-parent</artifactId>
-    <version>16.20.1</version>
+    <version>16.21.0</version>
     <relativePath>../schemacrawler-parent/pom.xml</relativePath>
   </parent>
   <artifactId>schemacrawler-scripting</artifactId>
@@ -102,7 +102,7 @@
         <exclusion>
           <groupId>org.ow2.asm</groupId>
           <artifactId>asm-analysis</artifactId>
-        </exclusion> 
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -154,7 +154,7 @@
         <exclusion>
           <groupId>org.ow2.asm</groupId>
           <artifactId>asm-analysis</artifactId>
-        </exclusion>        
+        </exclusion>
       </exclusions>
     </dependency>
     <dependency>
@@ -174,7 +174,7 @@
       <artifactId>asm-analysis</artifactId>
       <version>9.5</version>
       <scope>provided</scope>
-    </dependency>    
+    </dependency>
     <!-- graphviz-java dependencies -->
     <dependency>
       <groupId>guru.nidi</groupId>
